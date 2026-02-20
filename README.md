@@ -71,7 +71,7 @@ All versions are specified in `requirements.txt`.
 - Top predictive features: capital gains, age, education level, weeks worked.
 
 ### Segmentation
-- **4 clusters** identified via K-Means on PCA-reduced data.
+- **2 clusters** identified via K-Means on PCA-reduced data.
 - Each cluster has distinct demographic profiles and income distributions, enabling tailored marketing strategies.
 
 ## Usage Notes
