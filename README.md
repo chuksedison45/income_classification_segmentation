@@ -63,11 +63,11 @@ All versions are specified in `requirements.txt`.
 ### Classification
 - Best model: **XGBoost** with SMOTE oversampling.
 - Test set performance:
-  - Accuracy: ~0.86
-  - Precision: ~0.75
-  - Recall: ~0.64
+  - Accuracy: ~0.95
+  - Precision: ~0.62
+  - Recall: ~0.56
   - F1-score: ~0.69
-  - ROC-AUC: ~0.92
+  - ROC-AUC: ~0.9482
 - Top predictive features: capital gains, age, education level, weeks worked.
 
 ### Segmentation
