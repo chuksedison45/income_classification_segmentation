@@ -21,8 +21,8 @@ The dataset is a weighted census bureau dataset from the 1994-1995 Current Popul
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/chuksedison45/income-prediction-segmentation.git
-cd income-prediction-segmentation
+git clone https://github.com/chuksedison45/income_classification_segmentation.git
+cd income_classification_segmentation
 ```
 
 ### 2. Create a virtual environment (optional but recommended)
