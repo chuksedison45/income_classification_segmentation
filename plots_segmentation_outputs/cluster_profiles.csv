@@ -1,0 +1,3 @@
+cluster,sex,race,marital stat,education,class of worker,major occupation code,age,wage per hour,capital gains,weeks worked in year,num persons worked for employer,size,high_income_pct
+0,Female,White,Never married,Children,Private,Sales,30.907212614232837,0.12435433614253749,91.52519918860703,0.9653903260210377,0.1800539534494657,95638,0.693239089065016
+1,Male,White,Married-civilian spouse present,High school graduate,Private,Adm support including clerical,38.751202114131296,109.74631417898586,774.7491456048323,45.01628318232395,3.7060185185185186,100656,11.642624384040694
